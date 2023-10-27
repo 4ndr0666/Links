@@ -57,7 +57,7 @@ target="_blank">Surveillance cameras</a>
 - [BnyroGO](https://me.chatoyer.de/search/)
 - [Yandex](https://yandex.com/)
 - [Disroot](https://search.disroot.org/search)
-- [Baidu](https://www.baidu.com/)
+- [Anon Search](https://www.zippysharedjs.com/anonfile/)
 - [You](https://you.com/)
 - [SearXNG](https://searx.be/?q=)
 - [EXALead](http://www.exalead.com/search/web/)
