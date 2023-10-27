@@ -7,28 +7,47 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 </p>
 
 <p align="center">
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#general-search-engines" target="_blank">General</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#servers" target="_blank">Servers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code" target="_blank">Code</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#dns" target="_blank">DNS</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#device-information" target="_blank">Device Info</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#leaks" target="_blank">Leaks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#hidden-services" target="_blank">Hidden Services</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#images" target="_blank">Images</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a>
+  <a href="https://github.com/4ndr0666/Links#general-search-engines" target="_blank">General</a> •
+  <a href="https://github.com/4ndr0666/Links#servers" 
+target="_blank">Servers</a> •
+  <a href="https://github.com/4ndr0666/Links#vulnerabilities" target="_blank">Vulnerabilities</a> •
+  <a href="https://github.com/4ndr0666/Links#exploits" 
+target="_blank">Exploits</a> •
+  <a href="https://github.com/4ndr0666/Linksedoardottt#attack-surface" target="_blank">Attack surface</a> •
+  <a href="https://github.com/4ndr0666/Links#code" 
+target="_blank">Code</a> •
+  <a href="https://github.com/4ndr0666/Links#mail-addresses" 
+target="_blank">Mail addresses</a> •
+  <a href="https://github.com/4ndr0666/Links#domains" 
+target="_blank">Domains</a> •
+  <a href="https://github.com/4ndr0666/Links#urls" 
+target="_blank">URLs</a> •
+  <a href="https://github.com/4ndr0666/Links#dns" 
+target="_blank">DNS</a> •
+  <a href="https://github.com/4ndr0666/Links#certificates" 
+target="_blank">Certificates</a> •
+  <a href="https://github.com/4ndr0666/Links#wifi-networks" 
+target="_blank">WiFi networks</a> •
+  <a href="https://github.com/4ndr0666/Links#device-information" 
+target="_blank">Device Info</a> •
+  <a href="https://github.com/4ndr0666/Links#credentials" 
+target="_blank">Credentials</a> •
+  <a href="https://github.com/4ndr0666/Links#leaks" 
+target="_blank">Leaks</a> •
+  <a href="https://github.com/4ndr0666/Links#hidden-services" 
+target="_blank">Hidden Services</a> •
+  <a href="https://github.com/4ndr0666/Links#social-networks" 
+target="_blank">Social Networks</a> •
+  <a href="https://github.com/4ndr0666/Links#phone-numbers" 
+target="_blank">Phone numbers</a> •
+  <a href="https://github.com/4ndr0666/Links#images" 
+target="_blank">Images</a> •
+  <a href="https://github.com/4ndr0666/Links#threat-intelligence" 
+target="_blank">Threat Intelligence</a> •
+  <a href="https://github.com/4ndr0666/Links#web-history" 
+target="_blank">Web History</a> •
+  <a href="https://github.com/4ndr0666/Links#surveillance-cameras" 
+target="_blank">Surveillance cameras</a>
 </p>
 
 ### General Search Engines
@@ -502,6 +521,4 @@ These can be useful for osint and social engineering.
 
 ---
 
-If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues) or a [pull request](https://github.com/edoardottt/awesome-hacker-search-engines/pulls).
 
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
