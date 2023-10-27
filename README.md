@@ -64,7 +64,7 @@ target="_blank">Surveillance cameras</a>
 - [Whoogle](https://search.garudalinux.org/)
 - [Swisscows](https://swisscows.com/en)
 - [Naver](https://www.naver.com/)
-- [Flaru](https://www.flaru.com/en/app/setting/)
+- [Bunkr](https://bunkr-albums.io/?search=%s)
 - [Metager](https://metager.org/)
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
