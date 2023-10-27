@@ -65,7 +65,7 @@ target="_blank">Surveillance cameras</a>
 - [Swisscows](https://swisscows.com/en)
 - [Naver](https://www.naver.com/)
 - [Flaru](https://www.flaru.com/en/app/setting/)
-- [Brave](https://search.brave.com/)
+- [Metager](https://metager.org/)
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
 - [Kagi](https://kagi.com/)
