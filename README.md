@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Awesome Hacker Search Engines</b> <img src="https://raw.githubusercontent.com/edoardottt/images/main/awesome-hacker-search-engines/awesome.svg"/>
+  <img src="https://github.com/4ndr0666/nas/blob/main/SVG/inkpx-word-art.png"/>
 </h1>
-
 <p align="center">
-A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+Lasciate ogne speranza, voi ch'intrate.
 </p>
+
 
 <p align="center">
   <a href="https://github.com/4ndr0666/Links#general-search-engines" target="_blank">General</a> •
