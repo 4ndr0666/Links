@@ -36,8 +36,8 @@ target="_blank">Credentials</a> •
 target="_blank">Leaks</a> •
   <a href="https://github.com/4ndr0666/Links#hidden-services" 
 target="_blank">Hidden Services</a> •
-  <a href="https://github.com/4ndr0666/Links#social-networks" 
-target="_blank">Social Networks</a> •
+  <a href="https://github.com/4ndr0666/Links#social" 
+target="_blank">Social</a> •
   <a href="https://github.com/4ndr0666/Links#phone-numbers" 
 target="_blank">Phone numbers</a> •
   <a href="https://github.com/4ndr0666/Links#images" 
@@ -347,7 +347,7 @@ target="_blank">Surveillance cameras</a>
 - [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
 - [OnionLand](https://onionlandsearchengine.com/) - Discover Hidden Services and access to Tor's onion sites
 
-### Social Networks
+### Social 
 
 These can be useful for osint and social engineering.
 
