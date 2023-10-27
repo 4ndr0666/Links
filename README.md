@@ -54,7 +54,7 @@ target="_blank">Surveillance cameras</a>
 
 - [Lieu](https://lieu.cblgh.org/)
 - [Bing](https://www.bing.com/)
-- [Yahoo!](http://www.yahoo.com/)
+- [BnyroGO](https://me.chatoyer.de/search/)
 - [Yandex](https://yandex.com/)
 - [Ask](https://www.ask.com/)
 - [Baidu](https://www.baidu.com/)
