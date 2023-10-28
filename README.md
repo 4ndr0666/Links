@@ -8,6 +8,12 @@ Lasciate ogne speranza, voi ch'intrate.
 
 <p align="center">
   <a href="https://github.com/4ndr0666/Links#general-search-engines" target="_blank">General</a> •
+  <a href="https://github.com/4ndr0666/Links#utilities"
+target="_back">Utilities</a> *
+  <a href="https://github.com/4ndr0666/Links#images" 
+target="_blank">Images</a> •
+  <a href="https://github.com/4ndr0666/Links#social" 
+target="_blank">Social</a> •
   <a href="https://github.com/4ndr0666/Links#servers" 
 target="_blank">Servers</a> •
   <a href="https://github.com/4ndr0666/Links#vulnerabilities" target="_blank">Vulnerabilities</a> •
@@ -36,12 +42,8 @@ target="_blank">Credentials</a> •
 target="_blank">Leaks</a> •
   <a href="https://github.com/4ndr0666/Links#hidden-services" 
 target="_blank">Hidden Services</a> •
-  <a href="https://github.com/4ndr0666/Links#social" 
-target="_blank">Social</a> •
   <a href="https://github.com/4ndr0666/Links#phone-numbers" 
 target="_blank">Phone numbers</a> •
-  <a href="https://github.com/4ndr0666/Links#images" 
-target="_blank">Images</a> •
   <a href="https://github.com/4ndr0666/Links#threat-intelligence" 
 target="_blank">Threat Intelligence</a> •
   <a href="https://github.com/4ndr0666/Links#web-history" 
@@ -69,6 +71,69 @@ target="_blank">Surveillance cameras</a>
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
 - [Kagi](https://kagi.com/)
+
+
+### Utilities
+
+- [Openuser JS](https://openuserjs.org/?q=%s) - Userscripts
+- [Userscript Zone](https://www.userscript.zone/search?l=en_US&source=index&q=%s) - Userscripts 
+- [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
+- [Privatebin](https://bin.garudalinux.org/) - Garudas privatebin
+- [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
+- [LibreY](https://librey.garudalinux.org/) - Metadata search
+- [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
+
+
+### Images
+
+- [Google Image Search](https://images.google.com/) - The most comprehensive image search on the web
+- [Baidu Image](https://image.baidu.com/) - Baidu Image Search
+- [Yahoo Image](https://images.search.yahoo.com/) - Yahoo Image Search
+- [Yandex Image](https://www.yandex.com/images/) - Yandex Image Search
+- [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
+- [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
+- [Reverse Image Search](https://www.reverseimagesearch.org/) - Super-fast image finder that helps you find similar images online
+- [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
+- [Pixsy](https://www.pixsy.com) - Find and fight image theft
+- [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
+- [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
+- [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
+- [Infringement Report](https://infringement.report/) - The web's best image copyright infringement search tool
+- [Tineye](https://tineye.com/) - Image search and recognition company
+- [Flickr](https://flickr.com/search/) - Home to tens of billions of photos and 2 million groups
+- [Sogou](https://pic.sogou.com/) - Chinese technology company that offers a search engine
+- [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
+- [Same Energy](https://same.energy/) - Find beautiful images
+- [Pixabay](https://pixabay.com/) - Stunning royalty-free images & royalty-free stock
+- [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
+- [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
+- [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify  
+
+
+### Social 
+
+These can be useful for osint and social engineering.
+
+- [Flaru](https://www.flaru/en/app/setting/)
+- [Bunkrr](https://www.bunkr-albums.io/)
+- [Redgifs](https://www.redgifs.com/users/andr0666/)
+- [Simpcity](https://simpcity.su/)
+- [Social Media Girls](https://forums.socialmediagirls.com/)
+- [Fapeza](https://fapeza.com/)
+- [Fapello](https://www.fapello.com/)
+- [NCgifs](https://nudecelebgifs.com/)
+- [Sukebe](https://www.deepsukebe.io/en/)
+- [Rpclips](https://www.rpclip.com/)
+- [Whatsapp](https://www.whatsapp.com/)
+- [Quora](https://www.quora.com/)
+- [TikTok](https://www.tiktok.com/)
+- [Vimeo](https://vimeo.com/)
+- [Medium](https://medium.com/)
+- [WeChat](https://www.wechat.com/)
+- [VK](https://vk.com/)
+- [Weibo](https://weibo.com/)
+- [Tinder](https://tinder.com/)
+
 
 ### Servers
 
@@ -347,30 +412,6 @@ target="_blank">Surveillance cameras</a>
 - [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
 - [OnionLand](https://onionlandsearchengine.com/) - Discover Hidden Services and access to Tor's onion sites
 
-### Social 
-
-These can be useful for osint and social engineering.
-
-- [Flaru](https://www.flaru/en/app/setting/)
-- [Bunkrr](https://www.bunkr-albums.io/)
-- [Redgifs](https://www.redgifs.com/users/andr0666/)
-- [Simpcity](https://simpcity.su/)
-- [Social Media Girls](https://forums.socialmediagirls.com/)
-- [Fapeza](https://fapeza.com/)
-- [Fapello](https://www.fapello.com/)
-- [NCgifs](https://nudecelebgifs.com/)
-- [Sukebe](https://www.deepsukebe.io/en/)
-- [Rpclips](https://www.rpclip.com/)
-- [Whatsapp](https://www.whatsapp.com/)
-- [Quora](https://www.quora.com/)
-- [TikTok](https://www.tiktok.com/)
-- [Vimeo](https://vimeo.com/)
-- [Medium](https://medium.com/)
-- [WeChat](https://www.wechat.com/)
-- [VK](https://vk.com/)
-- [Weibo](https://weibo.com/)
-- [Tinder](https://tinder.com/)
-
 ### Phone Numbers
 
 - [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
@@ -400,30 +441,6 @@ These can be useful for osint and social engineering.
 - [Radaris Phone Lookup](https://radaris.com/#findPhoneH) - Look up any phone number to see its owner and identify who's calling or texting you
 - [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Reverse phone number lookup with millions of listings including name or address
 
-### Images
-
-- [Google Image Search](https://images.google.com/) - The most comprehensive image search on the web
-- [Baidu Image](https://image.baidu.com/) - Baidu Image Search
-- [Yahoo Image](https://images.search.yahoo.com/) - Yahoo Image Search
-- [Yandex Image](https://www.yandex.com/images/) - Yandex Image Search
-- [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
-- [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
-- [Reverse Image Search](https://www.reverseimagesearch.org/) - Super-fast image finder that helps you find similar images online
-- [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
-- [Pixsy](https://www.pixsy.com) - Find and fight image theft
-- [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
-- [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
-- [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
-- [Infringement Report](https://infringement.report/) - The web's best image copyright infringement search tool
-- [Tineye](https://tineye.com/) - Image search and recognition company
-- [Flickr](https://flickr.com/search/) - Home to tens of billions of photos and 2 million groups
-- [Sogou](https://pic.sogou.com/) - Chinese technology company that offers a search engine
-- [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
-- [Same Energy](https://same.energy/) - Find beautiful images
-- [Pixabay](https://pixabay.com/) - Stunning royalty-free images & royalty-free stock
-- [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
-- [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
-- [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
 
 ### Threat Intelligence
 
@@ -503,19 +520,10 @@ These can be useful for osint and social engineering.
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
 - [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
 
-### Unclassified
 
-- [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
-- [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
-- [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
-- [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 
-### Not working / Paused
 
 <!-- markdown-link-check-disable -->
-
-- [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 
 <!-- markdown-link-check-enable -->
 
