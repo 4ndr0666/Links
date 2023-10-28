@@ -75,24 +75,24 @@ target="_blank">Surveillance cameras</a>
 
 ### Utilities
 
-- [Openuser JS](https://openuserjs.org/?q=%s) - Userscripts
-- [Userscript Zone](https://www.userscript.zone/search?l=en_US&source=index&q=%s) - Userscripts 
-- [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
-- [Privatebin](https://bin.garudalinux.org/) - Garudas privatebin
-- [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
+- [Openuser JS](https://openuserjs.org/?q=%s) 
+- [Userscript Zone](https://www.userscript.zone/search?l=en_US&source=index&q=%s) 
+- [usersearch.org](https://usersearch.org/) 
+- [Privatebin](https://bin.garudalinux.org/) 
+- [Pastebin](https://pastebin.com/) 
 - [LibreY](https://librey.garudalinux.org/) - Metadata search
 - [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 
 
 ### Images
 
-- [Google Image Search](https://images.google.com/) - The most comprehensive image search on the web
-- [Baidu Image](https://image.baidu.com/) - Baidu Image Search
-- [Yahoo Image](https://images.search.yahoo.com/) - Yahoo Image Search
-- [Yandex Image](https://www.yandex.com/images/) - Yandex Image Search
+- [Google Image Search](https://images.google.com/) 
+- [Baidu Image](https://image.baidu.com/) 
+- [Yahoo Image](https://images.search.yahoo.com/) 
+- [Yandex Image](https://www.yandex.com/images/) 
 - [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
-- [Bing Visual Search](https://www.bing.com/visualsearch) - See it, search it
-- [Reverse Image Search](https://www.reverseimagesearch.org/) - Super-fast image finder that helps you find similar images online
+- [Bing Visual Search](https://www.bing.com/visualsearch)
+- [Reverse Image Search](https://www.reverseimagesearch.org/) 
 - [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
 - [Pixsy](https://www.pixsy.com) - Find and fight image theft
 - [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
