@@ -77,41 +77,40 @@ Lasciate ogne speranza, voi ch'intrate.
 - [Baidu Image](https://image.baidu.com/) 
 - [Yahoo Image](https://images.search.yahoo.com/) 
 - [Yandex Image](https://www.yandex.com/images/) 
-- [Facecheck.id](https://facecheck.id/) - Search for people by photo and verify you are talking to the person they claim to be
+- [Facecheck.id](https://facecheck.id/)  
 - [Bing Visual Search](https://www.bing.com/visualsearch)
 - [Reverse Image Search](https://www.reverseimagesearch.org/) 
-- [Reverse Image](https://reverseimage.net/) - Find Where Images Appear Online
+- [Reverse Image](https://reverseimage.net/)  
 - [Pixsy](https://www.pixsy.com) - Find and fight image theft
-- [Pimeyes](https://pimeyes.com/) - Face Search Engine, Reverse Image Search
-- [Pictriev](http://www.pictriev.com/) - Find look-alike celebrities on the web using the face recognition
-- [Karmadecay](http://karmadecay.com/) - Reverse image search of Reddit.com
-- [Infringement Report](https://infringement.report/) - The web's best image copyright infringement search tool
-- [Tineye](https://tineye.com/) - Image search and recognition company
-- [Flickr](https://flickr.com/search/) - Home to tens of billions of photos and 2 million groups
-- [Sogou](https://pic.sogou.com/) - Chinese technology company that offers a search engine
+- [Pimeyes](https://pimeyes.com/) - Face Search Engine
+- [Pictriev](http://www.pictriev.com/) - Find look-alike w face recognition
+- [Karmadecay](http://karmadecay.com/) 
+- [Infringement Report](https://infringement.report/) 
+- [Tineye](https://tineye.com/) 
+- [Flickr](https://flickr.com/search/) 
+- [Sogou](https://pic.sogou.com/) 
 - [Jimpl](https://jimpl.com/) - Online photo metadata and EXIF data viewer
 - [Same Energy](https://same.energy/) - Find beautiful images
 - [Pixabay](https://pixabay.com/) - Stunning royalty-free images & royalty-free stock
-- [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
-- [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
-- [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
+- [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis
+- [Exif data](http://exifdata.com/) - Online application 
+- [Image Identify](https://www.imageidentify.com/) - Drag your image & identify
 - [Face Recognition](https://face-rec.org/) - Face recognition technology comparison
 - [Cydex Image Search](https://cydex.com/) - Reverse search for artistic images
 
 
-### Social 🎥🌐
+### Social 🎥 🌐
 
-These can be useful for osint and social engineering.
 
-- [Flaru](https://www.flaru/en/app/setting/)
-- [Bunkrr](https://www.bunkr-albums.io/)
+- [Flaru](https://www.flaru/en/app/setting/) - Social search across hosters
+- [Bunkrr](https://www.bunkr-albums.io/) - Bunkr search
 - [Redgifs](https://www.redgifs.com/users/andr0666/)
 - [Simpcity](https://simpcity.su/)
 - [Social Media Girls](https://forums.socialmediagirls.com/)
 - [Fapeza](https://fapeza.com/)
 - [Fapello](https://www.fapello.com/)
 - [NCgifs](https://nudecelebgifs.com/)
-- [Und.io](https://undressing.io/ai-photo-editor/)
+- [Und.io](https://undressing.io/ai-photo-editor/) - Best AI face swap
 - [Jpg5](https://jpg5.su/orphanslayer15)
 - [Jpg5](https://jpg5.su/borisbalkan)
 - [Jpg5](https://jpg5.su/k27)
@@ -119,15 +118,15 @@ These can be useful for osint and social engineering.
 - [CJ](https://celebjihad.com/nude-celebs-db6)
 - [Bellazon](https://www.bellazon.com/main/topic/)
 - [DA](https://www.deviantart.com/thebandit025nega)
-- [IG](https://www.instagram.com/spturtledovemama/)
-- [CMArchive](https://bunkr.si/a/FMKezhFQ)
+- [IG](https://www.instagram.com/spturtledovemama/) - 
+- [CMArchive](https://bunkr.si/a/FMKezhFQ) - Old School
 
 
 ### Servers 🌐
 
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
-- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
+- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet
+- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine 
 - [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
 - [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
 - [Natlas](https://natlas.io/) - Scaling Network Scanning
