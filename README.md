@@ -8,51 +8,31 @@ Lasciate ogne speranza, voi ch'intrate.
 
 <p align="center">
   <a href="https://github.com/4ndr0666/Links#general-search-engines" target="_blank">General</a> •
-  <a href="https://github.com/4ndr0666/Links#utilities"
-target="_back">Utilities</a> *
-  <a href="https://github.com/4ndr0666/Links#images" 
-target="_blank">Images</a> •
-  <a href="https://github.com/4ndr0666/Links#social" 
-target="_blank">Social</a> •
-  <a href="https://github.com/4ndr0666/Links#servers" 
-target="_blank">Servers</a> •
+  <a href="https://github.com/4ndr0666/Links#utilities" target="_blank">Utilities</a> •
+  <a href="https://github.com/4ndr0666/Links#images" target="_blank">Images</a> •
+  <a href="https://github.com/4ndr0666/Links#social" target="_blank">Social</a> •
+  <a href="https://github.com/4ndr0666/Links#servers" target="_blank">Servers</a> •
   <a href="https://github.com/4ndr0666/Links#vulnerabilities" target="_blank">Vulnerabilities</a> •
-  <a href="https://github.com/4ndr0666/Links#exploits" 
-target="_blank">Exploits</a> •
-  <a href="https://github.com/4ndr0666/Linksedoardottt#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/4ndr0666/Links#code" 
-target="_blank">Code</a> •
-  <a href="https://github.com/4ndr0666/Links#mail-addresses" 
-target="_blank">Mail addresses</a> •
-  <a href="https://github.com/4ndr0666/Links#domains" 
-target="_blank">Domains</a> •
-  <a href="https://github.com/4ndr0666/Links#urls" 
-target="_blank">URLs</a> •
-  <a href="https://github.com/4ndr0666/Links#dns" 
-target="_blank">DNS</a> •
-  <a href="https://github.com/4ndr0666/Links#certificates" 
-target="_blank">Certificates</a> •
-  <a href="https://github.com/4ndr0666/Links#wifi-networks" 
-target="_blank">WiFi networks</a> •
-  <a href="https://github.com/4ndr0666/Links#device-information" 
-target="_blank">Device Info</a> •
-  <a href="https://github.com/4ndr0666/Links#credentials" 
-target="_blank">Credentials</a> •
-  <a href="https://github.com/4ndr0666/Links#leaks" 
-target="_blank">Leaks</a> •
-  <a href="https://github.com/4ndr0666/Links#hidden-services" 
-target="_blank">Hidden Services</a> •
-  <a href="https://github.com/4ndr0666/Links#phone-numbers" 
-target="_blank">Phone numbers</a> •
-  <a href="https://github.com/4ndr0666/Links#threat-intelligence" 
-target="_blank">Threat Intelligence</a> •
-  <a href="https://github.com/4ndr0666/Links#web-history" 
-target="_blank">Web History</a> •
-  <a href="https://github.com/4ndr0666/Links#surveillance-cameras" 
-target="_blank">Surveillance cameras</a>
+  <a href="https://github.com/4ndr0666/Links#exploits" target="_blank">Exploits</a> •
+  <a href="https://github.com/4ndr0666/Links#attack-surface" target="_blank">Attack surface</a> •
+  <a href="https://github.com/4ndr0666/Links#code" target="_blank">Code</a> •
+  <a href="https://github.com/4ndr0666/Links#mail-addresses" target="_blank">Mail addresses</a> •
+  <a href="https://github.com/4ndr0666/Links#domains" target="_blank">Domains</a> •
+  <a href="https://github.com/4ndr0666/Links#urls" target="_blank">URLs</a> •
+  <a href="https://github.com/4ndr0666/Links#dns" target="_blank">DNS</a> •
+  <a href="https://github.com/4ndr0666/Links#certificates" target="_blank">Certificates</a> •
+  <a href="https://github.com/4ndr0666/Links#wifi-networks" target="_blank">WiFi networks</a> •
+  <a href="https://github.com/4ndr0666/Links#device-information" target="_blank">Device Info</a> •
+  <a href="https://github.com/4ndr0666/Links#credentials" target="_blank">Credentials</a> •
+  <a href="https://github.com/4ndr0666/Links#leaks" target="_blank">Leaks</a> •
+  <a href="https://github.com/4ndr0666/Links#hidden-services" target="_blank">Hidden Services</a> •
+  <a href="https://github.com/4ndr0666/Links#phone-numbers" target="_blank">Phone numbers</a> •
+  <a href="https://github.com/4ndr0666/Links#threat-intelligence" target="_blank">Threat Intelligence</a> •
+  <a href="https://github.com/4ndr0666/Links#web-history" target="_blank">Web History</a> •
+  <a href="https://github.com/4ndr0666/Links#surveillance-cameras" target="_blank">Surveillance cameras</a>
 </p>
 
-### General Search Engines
+### General Search Engines 🔍🌐
 
 - [Lieu](https://lieu.cblgh.org/)
 - [Bing](https://www.bing.com/)
@@ -71,9 +51,11 @@ target="_blank">Surveillance cameras</a>
 - [Yep](https://yep.com/)
 - [Gibiru](https://gibiru.com/)
 - [Kagi](https://kagi.com/)
+- [DuckDuckGo](https://duckduckgo.com/) 
+- [Mojeek](https://www.mojeek.com/) 
 
 
-### Utilities
+### Utilities 🛠️ 🛠️
 
 - [Openuser JS](https://openuserjs.org/?q=%s) 
 - [Userscript Zone](https://www.userscript.zone/search?l=en_US&source=index&q=%s) 
@@ -81,10 +63,15 @@ target="_blank">Surveillance cameras</a>
 - [Privatebin](https://bin.garudalinux.org/) 
 - [Pastebin](https://pastebin.com/) 
 - [LibreY](https://librey.garudalinux.org/) - Metadata search
-- [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
+- [Wappalyzer](https://www.wappalyzer.com/) - Analyze technology stacks 
+- [MyIP.ms](https://myip.ms/) - Whois Lookup, Server Details
+- [NoJS](https://nojsstats.appspot.com/) - Get stats about websites with no Javascript
+- [Dead Man's Switch](https://www.deadmansswitch.net/) - Set up a timed message in case of emergencies
+- [CheckUpDown](https://checkupdown.com/) - Check website availability
+- [Ghostbin](https://ghostbin.com/) - Paste snippets of code or text privately
+  
 
-
-### Images
+### Images  📷 📸
 
 - [Google Image Search](https://images.google.com/) 
 - [Baidu Image](https://image.baidu.com/) 
@@ -107,10 +94,12 @@ target="_blank">Surveillance cameras</a>
 - [Pixabay](https://pixabay.com/) - Stunning royalty-free images & royalty-free stock
 - [FotoForensics](https://fotoforensics.com/) - Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials
 - [Exif data](http://exifdata.com/) - Online application that lets you take a deeper look at your favorite images
-- [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify  
+- [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
+- [Face Recognition](https://face-rec.org/) - Face recognition technology comparison
+- [Cydex Image Search](https://cydex.com/) - Reverse search for artistic images
 
 
-### Social 
+### Social 🎥🌐
 
 These can be useful for osint and social engineering.
 
@@ -122,20 +111,19 @@ These can be useful for osint and social engineering.
 - [Fapeza](https://fapeza.com/)
 - [Fapello](https://www.fapello.com/)
 - [NCgifs](https://nudecelebgifs.com/)
-- [Sukebe](https://www.deepsukebe.io/en/)
-- [Rpclips](https://www.rpclip.com/)
-- [Whatsapp](https://www.whatsapp.com/)
-- [Quora](https://www.quora.com/)
-- [TikTok](https://www.tiktok.com/)
-- [Vimeo](https://vimeo.com/)
-- [Medium](https://medium.com/)
-- [WeChat](https://www.wechat.com/)
-- [VK](https://vk.com/)
-- [Weibo](https://weibo.com/)
-- [Tinder](https://tinder.com/)
+- [Und.io](https://undressing.io/ai-photo-editor/)
+- [Jpg5](https://jpg5.su/orphanslayer15)
+- [Jpg5](https://jpg5.su/borisbalkan)
+- [Jpg5](https://jpg5.su/k27)
+- [Jpg4](https://jpg4.su/disziplin)
+- [CJ](https://celebjihad.com/nude-celebs-db6)
+- [Bellazon](https://www.bellazon.com/main/topic/)
+- [DA](https://www.deviantart.com/thebandit025nega)
+- [IG](https://www.instagram.com/spturtledovemama/)
+- [CMArchive](https://bunkr.si/a/FMKezhFQ)
 
 
-### Servers
+### Servers 🌐
 
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
@@ -148,7 +136,7 @@ These can be useful for osint and social engineering.
 - [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
 
-### Vulnerabilities
+### Vulnerabilities 🔐
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - US National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
@@ -177,8 +165,10 @@ These can be useful for osint and social engineering.
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
 - [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
+- [ScanMyServer](https://www.scanmyserver.com/) 
 
-### Exploits
+
+### Exploits 🌐
 
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
@@ -203,7 +193,7 @@ These can be useful for osint and social engineering.
 - [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
 - [LOOBins](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
 
-### Attack Surface
+### Attack Surface 🌐
 
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
 - [BinaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
@@ -222,7 +212,7 @@ These can be useful for osint and social engineering.
 - [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
 - [Detectify](https://detectify.com/) - Complete External Attack Surface Management
 
-### Code
+### Code 🌐
 
 - [GitHub Code Search](https://github.com/search?type=code) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [GitLab Code Search](https://gitlab.com/) - Advanced search for faster, more efficient search across the entire GitLab instance
@@ -252,7 +242,7 @@ These can be useful for osint and social engineering.
 - [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
   
-### Mail Addresses
+### Mail Addresses 🌐
 
 - [Hunter.io](https://hunter.io/) - Find professional email addresses in seconds
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
@@ -279,7 +269,7 @@ These can be useful for osint and social engineering.
 - [Mailboxvalidator](https://www.mailboxvalidator.com/) - Secure and reliable email validation service to check for invalid email addresses
 - [ContactOut](https://contactout.com/) - Most accurate email finder for personal and work email outreach
 
-### Domains
+### Domains 🌐
 
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
@@ -312,7 +302,7 @@ These can be useful for osint and social engineering.
 - [SpyOnWeb](https://spyonweb.com/) - Quick and convenient search for the websites that probably belong to the same owner
 - [HaveIBeenSquatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 
-### URLs
+### URLs 🌐
 
 - [PhoneBook](https://phonebook.cz/) - Lists all domains, email addresses, or URLs for the given input domain
 - [IntelligenceX](https://intelx.io/) - Search engine and data archive
@@ -323,8 +313,10 @@ These can be useful for osint and social engineering.
 - [CommonCrawl Index](http://index.commoncrawl.org/) - Open repository of web crawl data
 - [URLVoid](https://www.urlvoid.com/) - Check the online reputation/safety of a website
 - [Norton SafeWeb](https://safeweb.norton.com/) - Look up a site, Get our rating
+- [SiteLock](https://www.sitelock.com/) 
 
-### DNS
+
+### DNS 🌐
 
 - [DNSDumpster](https://dnsdumpster.com/) - dns recon & research, find & lookup dns records
 - [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
@@ -350,7 +342,7 @@ These can be useful for osint and social engineering.
 - [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) - Get detailed information on the nameservers associated with a domain name
 - [DNSMap](https://dnsmap.io/) - Worldwide DNS Propagation Checker
 
-### Certificates
+### Certificates 🌐
 
 - [Crt.sh](https://crt.sh/) - Certificate Search
 - [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
@@ -363,7 +355,7 @@ These can be useful for osint and social engineering.
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet.
 
-### WiFi Networks
+### WiFi Networks 🌐
 
 - [Wigle.net](https://wigle.net/) - Maps and database of 802.11 wireless networks with statistics
 - [wifimap.io](https://www.wifimap.io/) - Connect to all Free WiFi Hotspots using WiFi Map App all over the World!
@@ -372,7 +364,7 @@ These can be useful for osint and social engineering.
 - [openwifimap.net](https://openwifimap.net/) - HTML5 map with OpenWiFiMap data
 - [mylnikov.org](https://www.mylnikov.org/) - Public API implementation of Wi-Fi Geo-Location database
 
-### Device Information
+### Device Information 🌐
 
 - [MACVendorLookup.com](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
 - [macvendors.com](https://macvendors.com/) - Find MAC Address Vendors. Now
@@ -380,7 +372,7 @@ These can be useful for osint and social engineering.
 - [maclookup.app](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
 - [macvendors.co](https://macvendors.co/) - Get vendor name of your network device using its mac address
 
-### Credentials
+### Credentials 🌐
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
 - [Dehashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks
@@ -390,7 +382,7 @@ These can be useful for osint and social engineering.
 - [LeakedPassword](https://leakedpassword.com/) - Search across multiple data breaches to see if your pass has been compromised
 - [BugMeNot](https://bugmenot.com/) - Find and share logins
 
-### Leaks
+### Leaks 🌐
 
 - [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
 - [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
@@ -403,7 +395,7 @@ These can be useful for osint and social engineering.
 - [Have I Been Zuckered](https://haveibeenzuckered.com/) - Facebook Data Breach Checker
 - [Cryptome](https://cryptome.org/) - Documents for publication that are prohibited by governments worldwide
 
-### Hidden Services
+### Hidden Services 🌐
 
 - [AHMIA](https://ahmia.fi/) - Search hidden services on the Tor network
 - [thehiddenwiki.org](https://thehiddenwiki.org/) - The darknet guide
@@ -412,7 +404,7 @@ These can be useful for osint and social engineering.
 - [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
 - [OnionLand](https://onionlandsearchengine.com/) - Discover Hidden Services and access to Tor's onion sites
 
-### Phone Numbers
+### Phone Numbers 🌐
 
 - [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
 - [SpyDialer](https://spydialer.com/) - Free Reverse Lookup Search
@@ -442,7 +434,7 @@ These can be useful for osint and social engineering.
 - [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Reverse phone number lookup with millions of listings including name or address
 
 
-### Threat Intelligence
+### Threat Intelligence 🌐
 
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques
 - [PulseDive](https://pulsedive.com/) - Threat intelligence made easy
@@ -493,7 +485,7 @@ These can be useful for osint and social engineering.
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
 - [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
 
-### Web History
+### Web History 🌐
 
 - [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
 - [Archive.ph](https://archive.ph/) - Create a copy of a webpage that will always be up even if the original link is down
@@ -505,7 +497,7 @@ These can be useful for osint and social engineering.
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
 - [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 
-### Surveillance cameras
+### Surveillance cameras 🌐
 
 - [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
 - [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
@@ -519,14 +511,3 @@ These can be useful for osint and social engineering.
 - [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
 - [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
 - [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
-
-
-
-
-<!-- markdown-link-check-disable -->
-
-<!-- markdown-link-check-enable -->
-
----
-
-
