@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/4ndr0666/nas/main/svg/inkpx-word-art.png"/>
+  <img src="https://raw.githubusercontent.com/4ndr0666/4ndr0site/refs/heads/main/static/images/icon-192x192.png"/>
 </h1>
 <p align="center">
 Lasciate ogne speranza, voi ch'intrate.
